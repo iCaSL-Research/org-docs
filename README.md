@@ -1,2 +1,2 @@
-# org-docs
-Documentation and workflow guidelines
+## Purpose
+This repository contains documentation, guidelines, and workflow instructions for our organization.
